@@ -1,6 +1,6 @@
 {
   "display_name": "Ruby, Cucumber",
-  "image_name": "cyberdojofoundation/ruby_cucumber:a9aafa6",
+  "image_name": "cyberdojofoundation/ruby_cucumber:d09da14",
   "visible_filenames": [
     "hiker.feature",
     "hiker_steps.rb",
