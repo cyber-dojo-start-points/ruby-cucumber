@@ -28,5 +28,7 @@ for file in *_steps.rb; do
   REQUIRES+=" -r ${file}"
 done
 
+export CUCUMBER_PUBLISH_QUIET=true
+
 # Test output can be formatted as progress or documentation
 cucumber --format progress . ${REQUIRES}
