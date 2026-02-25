@@ -1,6 +1,6 @@
 {
   "display_name": "Ruby 4.0.1, Cucumber 10.2.0",
-  "image_name": "ghcr.io/cyber-dojo-languages/ruby_cucumber:1355d2b",
+  "image_name": "ghcr.io/cyber-dojo-languages/ruby_cucumber:2c18d33",
   "visible_filenames": [
     "hiker.feature",
     "hiker_steps.rb",
@@ -8,6 +8,7 @@
     "coverage.rb",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".rb",
     ".feature"
