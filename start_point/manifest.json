@@ -1,5 +1,13 @@
 {
   "display_name": "Ruby 4.0.1, Cucumber 10.2.0",
+  "language": [
+    "Ruby",
+    "4.0.1"
+  ],
+  "test_framework": [
+    "Cucumber",
+    "10.2.0"
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/ruby_cucumber:2c18d33",
   "visible_filenames": [
     "hiker.feature",
