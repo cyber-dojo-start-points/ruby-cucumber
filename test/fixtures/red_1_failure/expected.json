@@ -1,0 +1,11 @@
+{
+  "match_counts": {
+    "^\\.\\.F$": 1,
+    "^\\(::\\) failed steps \\(::\\)$": 1,
+    "^expected: 42$": 1,
+    "^     got: 54$": 1,
+    "^1 scenario \\(1 failed\\)$": 1,
+    "^3 steps \\(1 failed, 2 passed\\)$": 1
+  },
+  "truncated": false
+}

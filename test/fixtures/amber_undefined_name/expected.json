@@ -1,0 +1,13 @@
+{
+  "matches": [
+    "^undefined local variable or method 'ansewr' for ",
+    "^\\./hiker_steps\\.rb:[0-9]+:in "
+  ],
+  "match_counts": {
+    "^\\.F-$": 1,
+    "^\\(::\\) failed steps \\(::\\)$": 1,
+    "^1 scenario \\(1 failed\\)$": 1,
+    "^3 steps \\(1 failed, 1 skipped, 1 passed\\)$": 1
+  },
+  "truncated": false
+}

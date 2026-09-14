@@ -1,0 +1,11 @@
+{
+  "matches": [
+    "answer_size_steps\\.rb:[0-9]+: syntax error found",
+    "^ \\(SyntaxError\\)$"
+  ],
+  "match_counts": {
+    "^[0-9]+ scenarios?": 0,
+    "^[0-9]+ steps?": 0
+  },
+  "truncated": false
+}

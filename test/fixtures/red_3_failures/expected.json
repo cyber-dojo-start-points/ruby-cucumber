@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^\\(::\\) failed steps \\(::\\)$": 1,
+    "^3 scenarios \\(3 failed\\)$": 1,
+    "^9 steps \\(3 failed, 6 passed\\)$": 1
+  },
+  "truncated": false
+}
