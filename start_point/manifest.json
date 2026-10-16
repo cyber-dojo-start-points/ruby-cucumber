@@ -1,14 +1,14 @@
 {
-  "display_name": "Ruby 4.0.1, Cucumber 10.2.0",
+  "display_name": "Ruby 4.0.7, Cucumber 12.0.0",
   "language": [
     "Ruby",
-    "4.0.1"
+    "4.0.7"
   ],
   "test_framework": [
     "Cucumber",
-    "10.2.0"
+    "12.0.0"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/ruby_cucumber:2c18d33",
+  "image_name": "ghcr.io/cyber-dojo-languages/ruby_cucumber:c3c39b5@sha256:fe16c34b0a9ee36712c7cccb053da936d3124574bfecc4f56b8069fa88c2de02",
   "visible_filenames": [
     "hiker.feature",
     "hiker_steps.rb",
